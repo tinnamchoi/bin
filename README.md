@@ -2,6 +2,7 @@ Note: These scripts can only be used to launch the apps. To install the packages
 * [Minecraft](https://www.minecraft.net/en-us/download)
 * [Spotify](https://www.spotify.com/au/download/linux/) ([AUR](https://aur.archlinux.org/packages/spotify))
 * [Spotify adblock](https://github.com/abba23/spotify-adblock)
+* [Feh](https://wiki.archlinux.org/title/feh)
 
 # Usage
 
