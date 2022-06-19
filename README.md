@@ -13,8 +13,6 @@ $ chmod u+x <filename>.sh
 
 Sets your brightness (as per the [Weber-Fechner law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law); it's not perfect but it's better than just incrementing by a certain value)
 
-Might have to change the file path and maximum brightness in the script if you have another vendor
-
 ### Options
 
 | Parameters          | Action                 |
