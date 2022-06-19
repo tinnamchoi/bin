@@ -1,6 +1,6 @@
 # Usage
 
-1. Download the file to `bin`
+1. Download the file to `~/bin/`
 2. Make the file executable
 ```bash
 $ chmod u+x <filename>.sh
@@ -21,7 +21,7 @@ Sets your brightness (as per the [Weber-Fechner law](https://en.wikipedia.org/wi
 | down                | Halve your brightness  |
 | set <integer 0-255> | Set to specific value  |
 
-## cloc-git
+## cloc-git.sh
 
 Source and instructions at [here](https://stackoverflow.com/users/578288/rory-okane).
 
@@ -49,13 +49,13 @@ fish: Job 1, 'minecraft-launcher' terminated by signal SIGABRT (Abort)
 ```
 but it's probably better that you try to set up your locales properly before trying this.
 
-## nmgui
+## nmgui.sh
 
 Spawns `nm-applet` with Stalonetray
 
-## spotify-adblock
+## spotify-adblock.sh
 
-is this not self-explanatory enough
+Launches Spotify with [abba23's adblock](https://github.com/abba23/spotify-adblock)
 
 ## u-drive.sh
 
