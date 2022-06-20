@@ -13,8 +13,6 @@ $ chmod u+x <filename>.sh
 
 Sets your brightness (as per the [Weber-Fechner law](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law); it's not perfect but it's better than just incrementing by a certain value)
 
-### Options
-
 | Parameters          | Action                 |
 | ------------------- | ---------------------- |
 | [nothing]           | Double your brightness |
@@ -35,9 +33,14 @@ Sets your background to ~/Images/wallpaper.*
 
 ## maim-dmenu.sh
 
-Spawns dmenu with multiple options for maim.
+Spawns dmenu with multiple options for maim, all of which saves to the X11 clipboard.
 
-Saves to `~/Images/Screenshots` by default
+Options with "(save)" saves to `~/Images/Screenshots` by default.
+
+| Parameters | Action                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------ |
+| [nothing]  | Spawns as usual                                                                                  |
+| quick      | Automatically chooses the last option "Screen (save)" without the need of additional user input. |
 
 ## minecraft.sh
 
@@ -71,7 +74,7 @@ Sometimes the Wi-Fi connection gets messed up. This usually fixes it.
 | ------------------ | --------------------------------------------------------------------- |
 | cloc-git           | [CLOC](http://cloc.sourceforge.net/), Git                             |
 | feh-background     | feh                                                                   |
-| maim-dmenu         | dmenu, maim                                                           |
+| maim-dmenu         | dmenu, maim, xclip                                                    |
 | minecraft-launcher | minecraft-launcher                                                    |
 | nmgui              | NetworkManager, Stalonetray                                           |
 | spotify-adblock    | Spotify, [spotify-adblock](https://github.com/abba23/spotify-adblock) |
