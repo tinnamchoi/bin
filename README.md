@@ -27,7 +27,7 @@ Source and instructions at [here](https://stackoverflow.com/users/578288/rory-ok
 
 might give up on this and just use dwmblocks cuz it's kinda pointless tbh
 
-## feh-background
+## feh-background.sh
 
 Sets your background to ~/Images/wallpaper.*
 
@@ -75,7 +75,7 @@ Sometimes the Wi-Fi connection gets messed up. This usually fixes it.
 | cloc-git           | [CLOC](http://cloc.sourceforge.net/), Git                             |
 | feh-background     | feh                                                                   |
 | maim-dmenu         | dmenu, maim, xclip                                                    |
-| minecraft-launcher | minecraft-launcher                                                    |
+| minecraft          | minecraft-launcher                                                    |
 | nmgui              | NetworkManager, Stalonetray                                           |
 | spotify-adblock    | Spotify, [spotify-adblock](https://github.com/abba23/spotify-adblock) |
 | u-drive            | st, [VPN to Uni](https://github.com/yuezk/GlobalProtect-openconnect)  |
