@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mkdir -p ~/Images/Screenshots
+
 quick () {
 	maim /tmp/maim.png
 	cp /tmp/maim.png ~/Images/Screenshots/"$(date '+%Y%m%d-%H%M%S').png"
