@@ -66,12 +66,12 @@ Sometimes the Wi-Fi connection gets messed up. This usually fixes it.
 
 # Dependencies
 
-| Scripts            | Dependencies                                                          |
-| ------------------ | --------------------------------------------------------------------- |
-| cloc-git           | [CLOC](http://cloc.sourceforge.net/), Git                             |
-| maim-dmenu         | dmenu, maim, xclip                                                    |
-| minecraft          | minecraft-launcher                                                    |
-| nmgui              | NetworkManager, Stalonetray                                           |
-| spotify-adblock    | Spotify, [spotify-adblock](https://github.com/abba23/spotify-adblock) |
-| u-drive            | st, [VPN to Uni](https://github.com/yuezk/GlobalProtect-openconnect)  |
-| uni-wifi           | NetworkManager                                                        |
+| Scripts            | Dependencies                                                                 |
+| ------------------ | ---------------------------------------------------------------------------- |
+| cloc-git           | [CLOC](http://cloc.sourceforge.net/), Git                                    |
+| maim-dmenu         | dmenu, maim, xclip                                                           |
+| minecraft          | minecraft-launcher                                                           |
+| nmgui              | NetworkManager, Stalonetray                                                  |
+| spotify-adblock    | Spotify, [spotify-adblock](https://github.com/abba23/spotify-adblock)        |
+| u-drive            | st, Samba, [VPN to Uni](https://github.com/yuezk/GlobalProtect-openconnect)  |
+| uni-wifi           | NetworkManager                                                               |
